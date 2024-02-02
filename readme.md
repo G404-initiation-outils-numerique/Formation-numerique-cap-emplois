@@ -19,7 +19,7 @@
 - Utilisation des formules et des fonctions de manière simplifiée.
 - Mise en page claire et structurée.
 
-lien vers les TP : [TP Découverte de Google Sheets](TP-Google-Sheet.md)
+lien vers les TP : [TP Découverte de Google Sheets](https://github.com/G404-initiation-outils-numerique/TP-Google-Sheet)
 
 ### Google Slides
 
